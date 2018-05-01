@@ -1,0 +1,6 @@
+{
+  "name": "Test anagram service on Heroku",
+  "description": "An app, which can be deployed to Heroku and returns anagrams for the given word.",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
